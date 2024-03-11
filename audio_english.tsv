@@ -1,0 +1,5 @@
+start	end	text
+0	5120	Let us explore some basic examples of speech-to-text conversion in Python.
+5760	10240	There are a few libraries and tools you can use to achieve this.
+10240	14080	I'll provide examples using two popular options,
+14080	17360	speech recognition and OpenAI's whisper.

@@ -1,0 +1,4 @@
+Let us explore some basic examples of speech-to-text conversion in Python.
+There are a few libraries and tools you can use to achieve this.
+I'll provide examples using two popular options,
+speech recognition and OpenAI's whisper.
